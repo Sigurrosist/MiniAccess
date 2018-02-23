@@ -1,0 +1,22 @@
+C:\Users\sigur\iCloudDrive\school\2018 Winter\CS\prjMiniAccess\prjMiniAccess\bin\Debug\prjMiniAccess.exe.config
+C:\Users\sigur\iCloudDrive\school\2018 Winter\CS\prjMiniAccess\prjMiniAccess\bin\Debug\prjMiniAccess.exe
+C:\Users\sigur\iCloudDrive\school\2018 Winter\CS\prjMiniAccess\prjMiniAccess\bin\Debug\prjMiniAccess.pdb
+C:\Users\sigur\iCloudDrive\school\2018 Winter\CS\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.csprojResolveAssemblyReference.cache
+C:\Users\sigur\iCloudDrive\school\2018 Winter\CS\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.frmMain.resources
+C:\Users\sigur\iCloudDrive\school\2018 Winter\CS\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.Properties.Resources.resources
+C:\Users\sigur\iCloudDrive\school\2018 Winter\CS\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.csproj.GenerateResource.Cache
+C:\Users\sigur\iCloudDrive\school\2018 Winter\CS\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.exe
+C:\Users\sigur\iCloudDrive\school\2018 Winter\CS\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.pdb
+C:\Users\sigur\iCloudDrive\school\2018 Winter\CS\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.frmTitle.resources
+C:\Users\sigur\iCloudDrive\school\2018 Winter\CS\prjMiniAccess\prjMiniAccess\obj\Debug\Interop.DAO.dll
+C:\Users\sigur\iCloudDrive\school\2018 Winter\CS\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.csproj.ResolveComReference.cache
+C:\Users\sigur\iCloudDrive\school\2018 Winter\CS\prjMiniAccess\prjMiniAccess\bin\Debug\Interop.DAO.dll
+C:\Users\sigur\iCloudDrive\school\2018 Winter\CS\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.frmNew.resources
+C:\Users\sigur\iCloudDrive\school\2018 Winter\CS\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.frmStatus.resources
+C:\Users\sigur\iCloudDrive\school\2018 Winter\CS\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.frmNewTable.resources
+C:\Users\sigur\iCloudDrive\school\2018 Winter\CS\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.frmNewField.resources
+C:\prjMiniAccess\prjMiniAccess\bin\Debug\prjMiniAccess.exe.config
+C:\prjMiniAccess\prjMiniAccess\obj\Debug\Interop.DAO.dll
+C:\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.csproj.ResolveComReference.cache
+C:\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.exe
+C:\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.pdb
